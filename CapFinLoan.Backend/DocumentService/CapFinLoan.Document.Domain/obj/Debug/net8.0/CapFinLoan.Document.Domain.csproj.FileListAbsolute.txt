@@ -1,0 +1,12 @@
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/bin/Debug/net8.0/CapFinLoan.Document.Domain.deps.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/bin/Debug/net8.0/CapFinLoan.Document.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/bin/Debug/net8.0/CapFinLoan.Document.Domain.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/obj/Debug/net8.0/CapFinLoan.Document.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/obj/Debug/net8.0/CapFinLoan.Document.Domain.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/obj/Debug/net8.0/CapFinLoan.Document.Domain.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/obj/Debug/net8.0/CapFinLoan.Document.Domain.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/obj/Debug/net8.0/CapFinLoan.Document.Domain.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/obj/Debug/net8.0/CapFinLoan.Document.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/obj/Debug/net8.0/refint/CapFinLoan.Document.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/obj/Debug/net8.0/CapFinLoan.Document.Domain.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Domain/obj/Debug/net8.0/ref/CapFinLoan.Document.Domain.dll

@@ -1,0 +1,12 @@
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/bin/Debug/net8.0/CapFinLoan.Admin.Domain.deps.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/bin/Debug/net8.0/CapFinLoan.Admin.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/bin/Debug/net8.0/CapFinLoan.Admin.Domain.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/obj/Debug/net8.0/CapFinLoan.Admin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/obj/Debug/net8.0/CapFinLoan.Admin.Domain.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/obj/Debug/net8.0/CapFinLoan.Admin.Domain.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/obj/Debug/net8.0/CapFinLoan.Admin.Domain.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/obj/Debug/net8.0/CapFinLoan.Admin.Domain.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/obj/Debug/net8.0/CapFinLoan.Admin.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/obj/Debug/net8.0/refint/CapFinLoan.Admin.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/obj/Debug/net8.0/CapFinLoan.Admin.Domain.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Domain/obj/Debug/net8.0/ref/CapFinLoan.Admin.Domain.dll

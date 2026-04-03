@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "KWXr2hde8gI=",
+  "success": true,
+  "projectFilePath": "/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Infrastructure/CapFinLoan.Auth.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/devdibyanshu/.nuget/packages/microsoft.bcl.memory/9.0.0/microsoft.bcl.memory.9.0.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.identitymodel.abstractions/8.7.0/microsoft.identitymodel.abstractions.8.7.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.7.0/microsoft.identitymodel.jsonwebtokens.8.7.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.identitymodel.logging/8.7.0/microsoft.identitymodel.logging.8.7.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.identitymodel.tokens/8.7.0/microsoft.identitymodel.tokens.8.7.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/system.identitymodel.tokens.jwt/8.7.0/system.identitymodel.tokens.jwt.8.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

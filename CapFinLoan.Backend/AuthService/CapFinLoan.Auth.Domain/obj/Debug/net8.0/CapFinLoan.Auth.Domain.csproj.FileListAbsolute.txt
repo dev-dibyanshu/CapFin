@@ -1,0 +1,12 @@
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/bin/Debug/net8.0/CapFinLoan.Auth.Domain.deps.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/bin/Debug/net8.0/CapFinLoan.Auth.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/bin/Debug/net8.0/CapFinLoan.Auth.Domain.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/obj/Debug/net8.0/CapFinLoan.Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/obj/Debug/net8.0/CapFinLoan.Auth.Domain.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/obj/Debug/net8.0/CapFinLoan.Auth.Domain.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/obj/Debug/net8.0/CapFinLoan.Auth.Domain.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/obj/Debug/net8.0/CapFinLoan.Auth.Domain.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/obj/Debug/net8.0/CapFinLoan.Auth.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/obj/Debug/net8.0/refint/CapFinLoan.Auth.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/obj/Debug/net8.0/CapFinLoan.Auth.Domain.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Domain/obj/Debug/net8.0/ref/CapFinLoan.Auth.Domain.dll

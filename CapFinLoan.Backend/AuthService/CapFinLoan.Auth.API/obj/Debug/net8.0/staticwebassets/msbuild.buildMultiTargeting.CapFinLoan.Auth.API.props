@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CapFinLoan.Auth.API.props" />
+</Project>

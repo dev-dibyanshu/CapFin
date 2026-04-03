@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CapFinLoan.Document.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CapFinLoan.Document.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CapFinLoan.Document.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CapFinLoan.Document.Application.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "CapFinLoan.Document.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CapFinLoan.Document.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CapFinLoan.Document.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapFinLoan.Document.Application/1.0.0": {
+      "type": "project",
+      "path": "../CapFinLoan.Document.Application/CapFinLoan.Document.Application.csproj",
+      "msbuildProject": "../CapFinLoan.Document.Application/CapFinLoan.Document.Application.csproj"
+    },
+    "CapFinLoan.Document.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CapFinLoan.Document.Domain/CapFinLoan.Document.Domain.csproj",
+      "msbuildProject": "../CapFinLoan.Document.Domain/CapFinLoan.Document.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CapFinLoan.Document.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/devdibyanshu/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Infrastructure/CapFinLoan.Document.Infrastructure.csproj",
+      "projectName": "CapFinLoan.Document.Infrastructure",
+      "projectPath": "/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Infrastructure/CapFinLoan.Document.Infrastructure.csproj",
+      "packagesPath": "/Users/devdibyanshu/.nuget/packages/",
+      "outputPath": "/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/devdibyanshu/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Application/CapFinLoan.Document.Application.csproj": {
+              "projectPath": "/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/DocumentService/CapFinLoan.Document.Application/CapFinLoan.Document.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/devdibyanshu/.dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

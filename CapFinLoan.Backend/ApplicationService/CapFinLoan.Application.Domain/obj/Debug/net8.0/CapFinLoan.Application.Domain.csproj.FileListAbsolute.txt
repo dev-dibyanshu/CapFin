@@ -1,0 +1,12 @@
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/bin/Debug/net8.0/CapFinLoan.Application.Domain.deps.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/bin/Debug/net8.0/CapFinLoan.Application.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/bin/Debug/net8.0/CapFinLoan.Application.Domain.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/obj/Debug/net8.0/CapFinLoan.Application.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/obj/Debug/net8.0/CapFinLoan.Application.Domain.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/obj/Debug/net8.0/CapFinLoan.Application.Domain.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/obj/Debug/net8.0/CapFinLoan.Application.Domain.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/obj/Debug/net8.0/CapFinLoan.Application.Domain.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/obj/Debug/net8.0/CapFinLoan.Application.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/obj/Debug/net8.0/refint/CapFinLoan.Application.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/obj/Debug/net8.0/CapFinLoan.Application.Domain.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/ApplicationService/CapFinLoan.Application.Domain/obj/Debug/net8.0/ref/CapFinLoan.Application.Domain.dll

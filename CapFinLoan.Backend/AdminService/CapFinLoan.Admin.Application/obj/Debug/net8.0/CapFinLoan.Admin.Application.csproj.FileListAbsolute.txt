@@ -1,0 +1,16 @@
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/bin/Debug/net8.0/CapFinLoan.Admin.Application.deps.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/bin/Debug/net8.0/CapFinLoan.Admin.Application.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/bin/Debug/net8.0/CapFinLoan.Admin.Application.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/bin/Debug/net8.0/CapFinLoan.Admin.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/bin/Debug/net8.0/CapFinLoan.Admin.Domain.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/obj/Debug/net8.0/CapFinLoan.Admin.Application.csproj.AssemblyReference.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/obj/Debug/net8.0/CapFinLoan.Admin.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/obj/Debug/net8.0/CapFinLoan.Admin.Application.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/obj/Debug/net8.0/CapFinLoan.Admin.Application.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/obj/Debug/net8.0/CapFinLoan.Admin.Application.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/obj/Debug/net8.0/CapFinLoan.Admin.Application.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/obj/Debug/net8.0/CapFinLo.3DAF777B.Up2Date
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/obj/Debug/net8.0/CapFinLoan.Admin.Application.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/obj/Debug/net8.0/refint/CapFinLoan.Admin.Application.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/obj/Debug/net8.0/CapFinLoan.Admin.Application.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AdminService/CapFinLoan.Admin.Application/obj/Debug/net8.0/ref/CapFinLoan.Admin.Application.dll

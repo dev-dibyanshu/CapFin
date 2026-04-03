@@ -1,0 +1,16 @@
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/bin/Debug/net8.0/CapFinLoan.Auth.Application.deps.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/bin/Debug/net8.0/CapFinLoan.Auth.Application.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/bin/Debug/net8.0/CapFinLoan.Auth.Application.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/bin/Debug/net8.0/CapFinLoan.Auth.Domain.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/bin/Debug/net8.0/CapFinLoan.Auth.Domain.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/obj/Debug/net8.0/CapFinLoan.Auth.Application.csproj.AssemblyReference.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/obj/Debug/net8.0/CapFinLoan.Auth.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/obj/Debug/net8.0/CapFinLoan.Auth.Application.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/obj/Debug/net8.0/CapFinLoan.Auth.Application.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/obj/Debug/net8.0/CapFinLoan.Auth.Application.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/obj/Debug/net8.0/CapFinLoan.Auth.Application.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/obj/Debug/net8.0/CapFinLo.1861A223.Up2Date
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/obj/Debug/net8.0/CapFinLoan.Auth.Application.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/obj/Debug/net8.0/refint/CapFinLoan.Auth.Application.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/obj/Debug/net8.0/CapFinLoan.Auth.Application.pdb
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/obj/Debug/net8.0/ref/CapFinLoan.Auth.Application.dll

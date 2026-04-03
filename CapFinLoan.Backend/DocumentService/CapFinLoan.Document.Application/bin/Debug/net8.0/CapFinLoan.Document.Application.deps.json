@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CapFinLoan.Document.Application/1.0.0": {
+        "dependencies": {
+          "CapFinLoan.Document.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CapFinLoan.Document.Application.dll": {}
+        }
+      },
+      "CapFinLoan.Document.Domain/1.0.0": {
+        "runtime": {
+          "CapFinLoan.Document.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapFinLoan.Document.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapFinLoan.Document.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

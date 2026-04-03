@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "7muGl1XRPng=",
+  "success": true,
+  "projectFilePath": "/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/NotificationService/NotificationService.csproj",
+  "expectedPackageFiles": [
+    "/Users/devdibyanshu/.nuget/packages/bouncycastle.cryptography/2.6.2/bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/mailkit/4.15.1/mailkit.4.15.1.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.configuration/10.0.5/microsoft.extensions.configuration.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.5/microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.configuration.binder/10.0.5/microsoft.extensions.configuration.binder.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.configuration.environmentvariables/10.0.5/microsoft.extensions.configuration.environmentvariables.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.configuration.fileextensions/10.0.5/microsoft.extensions.configuration.fileextensions.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.configuration.json/10.0.5/microsoft.extensions.configuration.json.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.5/microsoft.extensions.dependencyinjection.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.5/microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.5/microsoft.extensions.fileproviders.abstractions.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.fileproviders.physical/10.0.5/microsoft.extensions.fileproviders.physical.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.filesystemglobbing/10.0.5/microsoft.extensions.filesystemglobbing.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.primitives/10.0.5/microsoft.extensions.primitives.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/mimekit/4.15.1/mimekit.4.15.1.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/rabbitmq.client/7.2.1/rabbitmq.client.7.2.1.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/system.formats.asn1/8.0.1/system.formats.asn1.8.0.1.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/system.io.pipelines/10.0.5/system.io.pipelines.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/system.security.cryptography.pkcs/8.0.1/system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/system.text.encodings.web/10.0.5/system.text.encodings.web.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/system.text.json/10.0.5/system.text.json.10.0.5.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/system.threading.ratelimiting/8.0.0/system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

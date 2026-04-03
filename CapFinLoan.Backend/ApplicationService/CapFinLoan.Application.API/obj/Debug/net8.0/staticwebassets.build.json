@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8Ty8GqiUDhjoS2opseP8DbEBEVpTMqMJlzgyNvm1Euk=",
+  "Source": "CapFinLoan.Application.API",
+  "BasePath": "_content/CapFinLoan.Application.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
