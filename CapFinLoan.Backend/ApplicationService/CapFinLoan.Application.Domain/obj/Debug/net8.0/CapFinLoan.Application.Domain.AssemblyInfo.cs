@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CapFinLoan.Application.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+372f5a8011ba84baa30ed4f14752b45c39f6534d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7887effa34c65ca21faaafd9c9904809c7c1f3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CapFinLoan.Application.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CapFinLoan.Application.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
