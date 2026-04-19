@@ -1,0 +1,11 @@
+{
+  "EmailSettings": {
+    "SmtpServer": "smtp.gmail.com",
+    "Port": 587,
+    "SenderName": "CapFinLoan",
+    "SenderEmail": "YOUR_ACTUAL_EMAIL@gmail.com",
+    "Username": "YOUR_ACTUAL_EMAIL@gmail.com",
+    "Password": "YOUR_16_CHAR_APP_PASSWORD_NO_SPACES",
+    "EnableSsl": true
+  }
+}

@@ -81,6 +81,12 @@
           }
         }
       },
+      "Microsoft.AspNetCore.WebUtilities/8.0.0": {
+        "dependencies": {
+          "Microsoft.Net.Http.Headers": "8.0.0",
+          "System.IO.Pipelines": "8.0.0"
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -259,7 +265,7 @@
           "Microsoft.Bcl.AsyncInterfaces": "6.0.0",
           "Microsoft.CodeAnalysis.Common": "4.5.0",
           "System.Composition": "6.0.0",
-          "System.IO.Pipelines": "6.0.3",
+          "System.IO.Pipelines": "8.0.0",
           "System.Threading.Channels": "6.0.0"
         },
         "runtime": {
@@ -601,6 +607,11 @@
           }
         }
       },
+      "Microsoft.Net.Http.Headers/8.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "8.0.0"
+        }
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
       "Microsoft.SqlServer.Server/1.0.0": {
@@ -766,7 +777,7 @@
           }
         }
       },
-      "System.IO.Pipelines/6.0.3": {},
+      "System.IO.Pipelines/8.0.0": {},
       "System.Memory/4.5.4": {},
       "System.Memory.Data/1.0.2": {
         "dependencies": {
@@ -888,7 +899,8 @@
       },
       "CapFinLoan.Auth.Application/1.0.0": {
         "dependencies": {
-          "CapFinLoan.Auth.Domain": "1.0.0"
+          "CapFinLoan.Auth.Domain": "1.0.0",
+          "Microsoft.AspNetCore.WebUtilities": "8.0.0"
         },
         "runtime": {
           "CapFinLoan.Auth.Application.dll": {
@@ -954,6 +966,13 @@
       "sha512": "sha512-ua2LSZY/f0BkNUUVPPm83eq4Xnt+FZYutiMimRrzSmv2K2t2Ia/PuP4CfibYNSwnKl6fbZ49Bwn2mQGWnmmvOA==",
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/8.0.0",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.WebUtilities/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z1SXKg5Bk02VmrrOab1TO2yxkZIfL4RyrS+yCpwxcLTqJwImYhEttz3LYbl1gQebkAAvx2Fm4NVXmopxXeLZgw==",
+      "path": "microsoft.aspnetcore.webutilities/8.0.0",
+      "hashPath": "microsoft.aspnetcore.webutilities.8.0.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
       "type": "package",
@@ -1207,6 +1226,13 @@
       "path": "microsoft.identitymodel.tokens/6.24.0",
       "hashPath": "microsoft.identitymodel.tokens.6.24.0.nupkg.sha512"
     },
+    "Microsoft.Net.Http.Headers/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YlHqL8oWBX3H1LmdKUOxEMW8cVD8nUACEnE2Fu3Ze4k7mYf8yJ1o/uLqoequQV0GDupXyCBEzYhn7Zxdz7pqYQ==",
+      "path": "microsoft.net.http.headers/8.0.0",
+      "hashPath": "microsoft.net.http.headers.8.0.0.nupkg.sha512"
+    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
       "serviceable": true,
@@ -1333,12 +1359,12 @@
       "path": "system.identitymodel.tokens.jwt/6.24.0",
       "hashPath": "system.identitymodel.tokens.jwt.6.24.0.nupkg.sha512"
     },
-    "System.IO.Pipelines/6.0.3": {
+    "System.IO.Pipelines/8.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ryTgF+iFkpGZY1vRQhfCzX0xTdlV3pyaTTqRu2ETbEv+HlV7O6y7hyQURnghNIXvctl5DuZ//Dpks6HdL/Txgw==",
-      "path": "system.io.pipelines/6.0.3",
-      "hashPath": "system.io.pipelines.6.0.3.nupkg.sha512"
+      "sha512": "sha512-FHNOatmUq0sqJOkTx+UF/9YK1f180cnW5FVqnQMvYUN0elp6wFzbtPSiqbo1/ru8ICp43JM1i7kKkk6GsNGHlA==",
+      "path": "system.io.pipelines/8.0.0",
+      "hashPath": "system.io.pipelines.8.0.0.nupkg.sha512"
     },
     "System.Memory/4.5.4": {
       "type": "package",

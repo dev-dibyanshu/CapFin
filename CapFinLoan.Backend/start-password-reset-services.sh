@@ -1,0 +1,53 @@
+#!/bin/bash
+
+echo "=========================================="
+echo "Starting Password Reset Services"
+echo "=========================================="
+echo ""
+
+# Check if RabbitMQ is running
+echo "Checking RabbitMQ..."
+if docker ps | grep -q rabbitmq; then
+    echo "✅ RabbitMQ is already running"
+else
+    echo "Starting RabbitMQ..."
+    docker start rabbitmq 2>/dev/null || docker run -d --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+    echo "✅ RabbitMQ started"
+    echo "   Management UI: http://localhost:15672 (guest/guest)"
+fi
+
+echo ""
+echo "=========================================="
+echo "Services to start manually:"
+echo "=========================================="
+echo ""
+echo "Terminal 1 - Auth Service:"
+echo "  cd CapFinLoan.Backend/AuthService/CapFinLoan.Auth.API"
+echo "  dotnet run"
+echo ""
+echo "Terminal 2 - NotificationService:"
+echo "  cd CapFinLoan.Backend/NotificationService"
+echo "  dotnet run"
+echo ""
+echo "Terminal 3 - Frontend:"
+echo "  cd CapFinLoan.Frontend"
+echo "  npm run dev"
+echo ""
+echo "=========================================="
+echo "Test Password Reset:"
+echo "=========================================="
+echo ""
+echo "1. Go to http://localhost:5174/login"
+echo "2. Click 'Forgot your password?'"
+echo "3. Enter email"
+echo "4. Check Auth Service logs for RabbitMQ publish"
+echo "5. Check NotificationService logs for email sending"
+echo "6. Check email inbox for reset link"
+echo ""
+echo "=========================================="
+echo "Monitoring:"
+echo "=========================================="
+echo ""
+echo "RabbitMQ Management: http://localhost:15672"
+echo "Auth Service Health: http://localhost:7001/api/auth/health"
+echo ""

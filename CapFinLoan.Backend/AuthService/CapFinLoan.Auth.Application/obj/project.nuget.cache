@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uzOiicVDxeo=",
+  "dgSpecHash": "zV2bYHstxbM=",
   "success": true,
   "projectFilePath": "/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.Application/CapFinLoan.Auth.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/devdibyanshu/.nuget/packages/microsoft.aspnetcore.webutilities/8.0.0/microsoft.aspnetcore.webutilities.8.0.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/microsoft.net.http.headers/8.0.0/microsoft.net.http.headers.8.0.0.nupkg.sha512",
+    "/Users/devdibyanshu/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

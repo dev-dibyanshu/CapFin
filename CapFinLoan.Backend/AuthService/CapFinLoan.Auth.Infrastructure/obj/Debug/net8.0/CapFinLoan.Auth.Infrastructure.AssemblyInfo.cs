@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CapFinLoan.Auth.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7887effa34c65ca21faaafd9c9904809c7c1f3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ac5212bedb9f3b36910726fbbd650e09bdf4caa")]
 [assembly: System.Reflection.AssemblyProductAttribute("CapFinLoan.Auth.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CapFinLoan.Auth.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

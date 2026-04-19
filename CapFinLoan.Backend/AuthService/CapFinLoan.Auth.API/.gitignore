@@ -1,0 +1,13 @@
+# Development settings with credentials
+appsettings.Development.json
+
+# User-specific files
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# Visual Studio cache/options
+.vs/

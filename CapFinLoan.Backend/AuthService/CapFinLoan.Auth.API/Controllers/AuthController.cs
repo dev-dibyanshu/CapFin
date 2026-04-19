@@ -94,4 +94,54 @@ public class AuthController : ControllerBase
     {
         return Ok(new { status = "Auth service running", timestamp = DateTime.UtcNow });
     }
+
+    [HttpGet("test-email")]
+    [AllowAnonymous]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+    public async Task<IActionResult> TestEmail([FromQuery] string email, CancellationToken cancellationToken)
+    {
+        if (string.IsNullOrEmpty(email))
+        {
+            return BadRequest(new { message = "Email parameter is required. Usage: /api/auth/test-email?email=your@email.com" });
+        }
+
+        Console.WriteLine("========================================");
+        Console.WriteLine("[TEST EMAIL] Endpoint called");
+        Console.WriteLine($"[TEST EMAIL] Target email: {email}");
+        Console.WriteLine("========================================");
+
+        try
+        {
+            var testResetLink = "http://localhost:5174/reset-password?email=test@example.com&token=TEST_TOKEN_123";
+            
+            // Get email service from DI
+            var emailService = HttpContext.RequestServices.GetRequiredService<IEmailService>();
+            
+            Console.WriteLine("[TEST EMAIL] Calling email service...");
+            await emailService.SendPasswordResetEmailAsync(email, "Test User", testResetLink, cancellationToken);
+            
+            Console.WriteLine("[TEST EMAIL] ✅ Email sent successfully");
+            return Ok(new 
+            { 
+                success = true,
+                message = $"Test email sent successfully to {email}",
+                timestamp = DateTime.UtcNow
+            });
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("[TEST EMAIL] ❌ Failed to send email");
+            Console.WriteLine($"[TEST EMAIL ERROR]: {ex.Message}");
+            Console.WriteLine(ex.ToString());
+            
+            return StatusCode(500, new 
+            { 
+                success = false,
+                message = $"Failed to send email: {ex.Message}",
+                error = ex.ToString(),
+                timestamp = DateTime.UtcNow
+            });
+        }
+    }
 }

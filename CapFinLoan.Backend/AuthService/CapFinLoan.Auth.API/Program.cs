@@ -3,6 +3,7 @@ using CapFinLoan.Auth.Application.Interfaces;
 using CapFinLoan.Auth.Application.Services;
 using CapFinLoan.Auth.Domain.Entities;
 using CapFinLoan.Auth.Infrastructure.Configuration;
+using CapFinLoan.Auth.Infrastructure.Messaging;
 using CapFinLoan.Auth.Infrastructure.Security;
 using CapFinLoan.Auth.Persistence.Data;
 using CapFinLoan.Auth.Persistence.Repositories;
@@ -41,6 +42,7 @@ builder.Services.AddIdentityCore<ApplicationUser>(options =>
 
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
+builder.Services.AddSingleton<IMessagePublisher>(new RabbitMQPublisher("localhost"));
 builder.Services.AddScoped<IAuthService, AuthService>();
 
 var jwtSection = builder.Configuration.GetSection(JwtOptions.SectionName);

@@ -145,3 +145,7 @@
 /Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.API/obj/Debug/net8.0/CapFinLoan.Auth.API.pdb
 /Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.API/obj/Debug/net8.0/CapFinLoan.Auth.API.genruntimeconfig.cache
 /Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.API/obj/Debug/net8.0/ref/CapFinLoan.Auth.API.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.API/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.API/bin/Debug/net8.0/MailKit.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.API/bin/Debug/net8.0/MimeKit.dll
+/Users/devdibyanshu/Desktop/Code/sprint/FastTrack-CapFinLoan/CapFinLoan.Backend/AuthService/CapFinLoan.Auth.API/bin/Debug/net8.0/appsettings.Development.json
